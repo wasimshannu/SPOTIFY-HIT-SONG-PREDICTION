@@ -1,1 +1,3 @@
 # SPOTIFY-HIT-SONG-PREDICTION
+
+This dataset has been taken from kaggle. The main prediction here is to whether a song will turn out to be a hit or not based on various music composition features . The input to each algorithm is a series of audio features of a track. We use the algorithm to output a binary prediction of whether or not the song will feature on the Billboard Hot 100. For this project we hope to gain the following insights: 1. Predict if the songs will be a hit or not. 2. What songs with which artist are getting more hits? 3. What type of beats are in the hit list? 4. What kind of songs are popular with respect to lyrics.
